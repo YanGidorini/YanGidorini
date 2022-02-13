@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1> Olá, pode me chamar de Yan!😄 </h1>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanGidorini&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Yan Gidorini GitHub stats](https://github-readme-stats.vercel.app/api?username=YanGidorini&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
 <!--
 **YanGidorini/YanGidorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
