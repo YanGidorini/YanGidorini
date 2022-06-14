@@ -1,4 +1,4 @@
-<h2> Olá, pode me chamar de Yan!😄 </h2>
+<h2> Olá, sou o Yan!😄 </h2>
 <p>Sou um estudante de tecnologias para web, rumo ao FullStack 🚀</p>
 
 <div align="center" class="stats">
