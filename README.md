@@ -1,7 +1,7 @@
 <h2> Olá, sou o Yan!😄 </h2>
 <p>Sou um estudante de tecnologias para web, rumo ao FullStack 🚀</p>
 
-<div align="center" class="stats">
+<div>
   <a href="https://github.com/YanGidorini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGidorini&layout=compact&theme=vue-dark&count_private=true">
 </div>
