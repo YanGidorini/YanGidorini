@@ -1,7 +1,9 @@
 <h2> Olá, sou o Yan!😄 </h2>
 <p>Dê uma espiada nos meus repositórios 👀<p/>
-## Principais projetos
 
+## Principais projetos
+* teste1
+* teste2
 
 ## Sobre
 * 18 anos
