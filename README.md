@@ -2,11 +2,10 @@
 <p>Dê uma espiada nos meus repositórios 👀<p/>
 
 ## Principais projetos
-* teste1
-* teste2
+* Fintech: https://github.com/YanGidorini/RJutilidades
 
 ## Sobre
-* 18 anos
+* 19 anos
 * Moro em: Poá - SP
 * Cursando Análise e Desenvolvimento de Sistemas - FIAP - 2° semestre
 * Formado em Informática para a Internet pela ETEC Poá
