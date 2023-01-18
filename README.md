@@ -2,7 +2,7 @@
 <p>Dê uma espiada nos meus repositórios 👀<p/>
 
 ## Principais projetos
-* Fintech: https://github.com/YanGidorini/RJutilidades
+* [Fintech](https://github.com/YanGidorini/Fintech)
 
 ## Sobre
 * 19 anos
