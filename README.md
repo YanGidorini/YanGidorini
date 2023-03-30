@@ -7,13 +7,13 @@
 ## Sobre
 * 19 anos
 * Moro em: Poá - SP
-* Cursando Análise e Desenvolvimento de Sistemas - FIAP - 2° semestre
+* Cursando Análise e Desenvolvimento de Sistemas - FIAP - 3° semestre
 * Formado em Informática para a Internet pela ETEC Poá
 
 ## Conhecimentos
 <div>
   <a href="https://github.com/YanGidorini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGidorini&layout=compact&theme=vue-dark&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YanGidorini&count_private=true&layout=compact&theme=vue-dark">
 </div>
 <br>
 <div class="tecnologies">
