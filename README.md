@@ -3,6 +3,7 @@
 
 ## Principais projetos
 * [Fintech](https://github.com/YanGidorini/Fintech)
+* [First API](https://github.com/YanGidorini/first-restful-api)
 
 ## Sobre
 * 19 anos
