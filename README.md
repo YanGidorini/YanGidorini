@@ -3,7 +3,7 @@
 
 ## Principais projetos
 * [Fintech](https://github.com/YanGidorini/Fintech)
-* [First API](https://github.com/YanGidorini/first-restful-api)
+* [Web Scrapper Netshoes](https://github.com/YanGidorini/webscrapper-netshoes)
 <!-- * [Protótipo - RJ Utilidades](https://github.com/YanGidorini/RJutilidades) -->
 
 ## Sobre
