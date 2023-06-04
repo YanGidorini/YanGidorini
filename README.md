@@ -1,4 +1,4 @@
-<h2> Olá, sou o Yan!😄 </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+sou+o+Yan!%F0%9F%98%84)](https://git.io/typing-svg)
 <p>Dê uma espiada nos meus repositórios 👀<p/>
 
 ## Principais projetos
