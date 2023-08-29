@@ -10,23 +10,18 @@
 ## Sobre
 * 19 anos
 * Moro em: Poá - SP
-* Cursando Análise e Desenvolvimento de Sistemas - FIAP - 3° semestre
+* Cursando Análise e Desenvolvimento de Sistemas - FIAP - 4° semestre
 * Formado em Informática para a Internet pela ETEC Poá
 
-## Conhecimentos
-<div>
-  <a href="https://github.com/YanGidorini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YanGidorini&count_private=true&layout=compact&theme=vue-dark">
-</div>
-<br>
-<div class="tecnologies">
+## Tech Skills
+<!-- <div class="tecnologies">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />     
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
-</div>
+</div> -->
 
 ## Social/contato
 <div class="social">
