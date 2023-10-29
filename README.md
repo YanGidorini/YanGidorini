@@ -2,9 +2,7 @@
 <p>Dê uma espiada nos meus repositórios 👀<p/>
 
 ## Principais projetos
-* [Fintech](https://github.com/YanGidorini/Fintech)
-* [Web Scrapper Netshoes](https://github.com/YanGidorini/webscrapper-netshoes)
-* [Protótipo - RJ Utilidades](https://github.com/YanGidorini/RJutilidades)
+
 
 ## Sobre
 * 19 anos
