@@ -5,10 +5,11 @@
 
 
 ## Sobre
-* 19 anos
-* Moro em: Poá - SP
-* Cursando Análise e Desenvolvimento de Sistemas - FIAP - 4° semestre
-* Formado em Informática para a Internet pela ETEC Poá
+* 20 anos
+* Poá - SP
+* Formação
+  - Análise e Desenvolvimento de Sistemas - FIAP
+  - Técnico em Informática para a Internet - ETEC Poá
 
 ## Tech Skills
 <!-- <div class="tecnologies">
