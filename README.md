@@ -5,7 +5,6 @@
 
 
 ## Sobre
-* 20 anos
 * Poá - SP
 * Formação
   - Análise e Desenvolvimento de Sistemas - FIAP
