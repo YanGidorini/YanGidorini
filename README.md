@@ -1,7 +1,7 @@
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ## Sobre
-* Poá - SP
+* SP
 * Formação
   - Análise e Desenvolvimento de Sistemas - FIAP
   - Técnico em Informática para a Internet - ETEC Poá
